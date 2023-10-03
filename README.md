@@ -1,4 +1,5 @@
-### Hi there 👋
+### ![image](https://github.com/Daxelarne/Daxelarne/assets/46567786/32fcd851-0d3d-4c88-aeac-287e41b7bf5c)
+ Hi there 👋 
 
 <!--
 **Daxelarne/Daxelarne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
