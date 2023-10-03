@@ -5,10 +5,10 @@ J'occupe actuellement le poste de Chargé de Mission Développement et Gestion d
 
 #### Mes technos :
 
-<img src="https://github.com/Daxelarne/Daxelarne/assets/46567786/7ffe65fa-43c9-4727-acdd-b753283ba821" width="30"/>
-<img src="https://github.com/Daxelarne/Daxelarne/assets/46567786/a168822f-0cc1-4c50-ae7a-c55d93e3e7fd" width="30"/>
-<img src="https://github.com/Daxelarne/Daxelarne/assets/46567786/e360a408-a062-4a5f-82de-31d09cccc376" width="30"/>
-<img src="https://github.com/Daxelarne/Daxelarne/assets/46567786/82dfc30a-0887-4636-8f0d-4accdd656b92" width="30"/>
+<img src="https://github.com/Daxelarne/Daxelarne/assets/46567786/7ffe65fa-43c9-4727-acdd-b753283ba821" width="50"/>
+<img src="https://github.com/Daxelarne/Daxelarne/assets/46567786/a168822f-0cc1-4c50-ae7a-c55d93e3e7fd" width="50"/>
+<img src="https://github.com/Daxelarne/Daxelarne/assets/46567786/e360a408-a062-4a5f-82de-31d09cccc376" width="50"/>
+<img src="https://github.com/Daxelarne/Daxelarne/assets/46567786/82dfc30a-0887-4636-8f0d-4accdd656b92" width="50"/>
 
 
 
