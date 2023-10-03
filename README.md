@@ -6,7 +6,7 @@ J'occupe actuellement le poste de Chargé de Mission Développement et Gestion d
 
 
 #### Mes technos :
-[![<img src="https://github.com/Daxelarne/Daxelarne/assets/46567786/cda427d3-c254-4146-8774-dbc439cfdc55" width="25"/>]]
+<img src="https://github.com/Daxelarne/Daxelarne/assets/46567786/cda427d3-c254-4146-8774-dbc439cfdc55" width="25"/>
 
 <hr />
 
