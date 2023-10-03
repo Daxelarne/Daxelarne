@@ -8,7 +8,7 @@ J'occupe actuellement le poste de Chargé de Mission Développement et Gestion d
 ### ![image2](https://github.com/Daxelarne/Daxelarne/assets/46567786/f57f3dde-bd46-4d36-b752-1a676620b3c5) Welcome 👋 
 
 Let me introduce myself, Daxelarne, 22 years old and French. I did a two year university diploma in computer science leading to a internet and intranet development and administration license.
-I currently hold the position of Development and Production Management Project Manager at Bureau Veritas.
+I currently hold the position of Project Manager in Development and Production Management at Bureau Veritas.
 
 <hr />
 
