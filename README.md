@@ -6,7 +6,7 @@ J'occupe actuellement le poste de Chargé de Mission Développement et Gestion d
 
 
 #### Mes technos :
-[![](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)](https://github.com/user/repository/subscription)
+[![<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="250"/>]](https://github.com/user/repository/subscription)
 
 
 <hr />
