@@ -7,8 +7,12 @@ J'occupe actuellement le poste de Chargé de Mission Développement et Gestion d
 
 #### Mes technos :
 [![Button Example]][Link]
+
+[Button Hover]: https://img.shields.io/badge/Hover_Over_Me!-37a779?style=for-the-badge
+[Button Click]: https://img.shields.io/badge/Click_Me!-37a779?style=for-the-badge
+[Button Icon]: https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+
 [Link]: # 'Link with example title.'
-[Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
 
 
 <hr />
