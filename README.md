@@ -1,14 +1,12 @@
 ### ![image](https://github.com/Daxelarne/Daxelarne/assets/46567786/32fcd851-0d3d-4c88-aeac-287e41b7bf5c) Bienvenue 👋 
 
-Je me présente, Daxelarne, 23 ans et Français. J'ai réalisé un DUT Informatique ainsi qu'une licence DA2I en alternance.
-J'occupe actuellement le poste de Chargé de Mission Développement et Gestion de Production.
+Daxelarne, Français, 23 ans, j'ai réalisé un DUT Informatique ainsi qu'une licence DA2I et travaille maintenant comme développeur.
 
 <hr />
 
 ### ![image2](https://github.com/Daxelarne/Daxelarne/assets/46567786/f57f3dde-bd46-4d36-b752-1a676620b3c5) Welcome 👋 
 
-Let me introduce myself, Daxelarne, 23 years old and French. I did a two year university diploma in computer science leading to a internet and intranet development and administration license.
-I currently hold the position of Project Manager in Development and Production Management.
+Daxelarne, French, 23 years old, I've done an AD in Computer Science and a Bachelor's degree in Internet and Intranet Development and Administration, and I'm now working as a developer.
 
 <hr />
 
